@@ -1,4 +1,4 @@
-path = '/Users/enriquebozzadutra/Desktop/input'
+path = './input'
 
 elf_id = 1
 soma = 0
